@@ -1,0 +1,101 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.oak-title > h1{
+    width: 63px;
+    height: 35px;
+    color: #5D4895;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: normal;
+    justify-content: center;
+    display: flex;
+    padding-left: 100px;
+    padding-top: 25px;
+}
+
+.oak-class{
+    justify-content: flex-start;
+    flex-grow: wrap;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+
+.new__classbutton{
+    padding-right: 30px;
+}
+
+.new-class-bttn{
+    width: 149px;
+    height: 40px;
+    border-radius: 7px;
+    background: #5D4895;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: bold;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 17px;
+   
+}
+
+
+.oak-class-title > h1{
+    width: 131px;
+    height: 41px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 50px;
+                            
+}
+
+.oak-menu{
+    width: 216px;
+    height: 2000px;
+    fill: #6F5BA4;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 50px;
+}
+
+.button_exit{
+    width: 149px;
+    height: 40px;
+    padding-left: 15px;
+    background: #6F5BA4;
+    border-color: #6F5BA4;
+    color: #F2F2F2;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 16px;
+    font-style: bold;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    display: flex;
+    width: 101px;
+    height: 31px;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
